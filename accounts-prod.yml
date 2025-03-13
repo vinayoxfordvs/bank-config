@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to bank accounts related to PROD APIs"
   contactDetails:
     name: "Smitha Ray - QA lead"
-    email: "smithaR@bank.com"
+    email: "{cipher}58f7e8995b7297260dd68741733274cfbd4bd27b21f8151360002455209460abbf86831600dd399a3254725e9329e0ff"
   onCallSupport:
     - (666) 453-1111
     - (666) 656-4343
