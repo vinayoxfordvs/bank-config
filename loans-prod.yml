@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to bank in PROD environment *&*&*& "
+  contactDetails:
+    name: "Vinay Kumar S"
+    email: "vinay@bank.com"
+  onCallSupport:
+    - (789) 123 1234
+    - (789) 789 1234

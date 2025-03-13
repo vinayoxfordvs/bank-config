@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to bank accounts related to PROD APIs"
+  contactDetails:
+    name: "Smitha Ray - QA lead"
+    email: "smithaR@bank.com"
+  onCallSupport:
+    - (666) 453-1111
+    - (666) 656-4343

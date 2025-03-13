@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+cards:
+  message: " Welcome to <<PROD API>> repsonse"
+  contactDetails:
+    name: "Ramesh Naik"
+    email: "ramesh@bank.com"
+  onCallSupport:
+    - (565) 234 2342
+    - (676) 324 2322

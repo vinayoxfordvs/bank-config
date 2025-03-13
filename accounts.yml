@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to bank accounts related to loacl APIs"
+  contactDetails:
+    name: "Vinay Kumara s"
+    email: "vkumara@bank.com"
+  onCallSupport:
+    - (432) 545-1234
+    - (432) 323-1234

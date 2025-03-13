@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Loans in QA - environment ****"
+  contact-details:
+    name: "Vivan kumar V"
+    email: "vivan@bank.com"
+  onCallSupport:
+    - (456) 786 1234
+    - (456) 777 4532

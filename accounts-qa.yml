@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to bank accounts related to QA APIs"
+  contactDetails:
+    name: "Janhvi R = QA lead"
+    email: "janhvi@bank.com"
+  onCallSupport:
+    - (333) 121-1234
+    - (333) 232-1234

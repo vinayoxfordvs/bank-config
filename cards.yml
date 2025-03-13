@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to local API response page"
+  contactDetails:
+    name: "Videsh rao"
+    email: "videsh@bank.com"
+  onCallSupport:
+    - (111) 222 3333
+    - (222) 333 4444

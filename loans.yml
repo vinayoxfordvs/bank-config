@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Wel come to loan application"
+  contactDetails:
+    name: "Vihan V"
+    email: vihan@bank.com
+  onCallSupport:
+    - (123) 342 7676
+    - (123) 564 6545

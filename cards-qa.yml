@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to QA API response"
+  contactDetails:
+    name: "Vikyath VVV"
+    email: "vikyath@bank.com"
+  onCallSupport:
+    - (666) 333 2222
+    - (666) 111 3333
