@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to bank in PROD environment *&*&*& "
+  message: "Welcome to bank in <<PRODUCTION API>> environment"
   contactDetails:
     name: "Vinay Kumar S"
     email: "vinay@bank.com"
