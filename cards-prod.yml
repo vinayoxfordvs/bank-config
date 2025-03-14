@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: " Welcome to PRODUCTION API repsonse"
+  message: " Welcome to related to PRO API repsonse"
   contactDetails:
     name: "Ramesh Naik"
     email: "ramesh@bank.com"
