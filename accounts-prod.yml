@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to bank accounts related to PROD APIs"
+  message: "Welcome to bank accounts related to PRODUCTION APIs"
   contactDetails:
     name: "Smitha Ray - QA lead"
     email: "{cipher}58f7e8995b7297260dd68741733274cfbd4bd27b21f8151360002455209460abbf86831600dd399a3254725e9329e0ff"
