@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to bank accounts related to loacl APIs"
+  message: "Welcome to bank accounts related to Vinay local APIs"
   contactDetails:
     name: "Vinay Kumara s"
     email: "vkumara@bank.com"
